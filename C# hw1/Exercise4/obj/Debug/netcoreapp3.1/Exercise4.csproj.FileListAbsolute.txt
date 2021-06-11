@@ -1,0 +1,13 @@
+C:\Users\andrew\source\repos\DemoTask\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.exe
+C:\Users\andrew\source\repos\DemoTask\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.deps.json
+C:\Users\andrew\source\repos\DemoTask\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.json
+C:\Users\andrew\source\repos\DemoTask\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.dev.json
+C:\Users\andrew\source\repos\DemoTask\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.dll
+C:\Users\andrew\source\repos\DemoTask\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.pdb
+C:\Users\andrew\source\repos\DemoTask\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csprojAssemblyReference.cache
+C:\Users\andrew\source\repos\DemoTask\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfoInputs.cache
+C:\Users\andrew\source\repos\DemoTask\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfo.cs
+C:\Users\andrew\source\repos\DemoTask\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\andrew\source\repos\DemoTask\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.dll
+C:\Users\andrew\source\repos\DemoTask\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.pdb
+C:\Users\andrew\source\repos\DemoTask\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.genruntimeconfig.cache

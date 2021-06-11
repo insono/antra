@@ -1,0 +1,13 @@
+C:\Users\andrew\source\repos\DemoTask\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.exe
+C:\Users\andrew\source\repos\DemoTask\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.deps.json
+C:\Users\andrew\source\repos\DemoTask\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.runtimeconfig.json
+C:\Users\andrew\source\repos\DemoTask\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.runtimeconfig.dev.json
+C:\Users\andrew\source\repos\DemoTask\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.dll
+C:\Users\andrew\source\repos\DemoTask\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.pdb
+C:\Users\andrew\source\repos\DemoTask\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.csprojAssemblyReference.cache
+C:\Users\andrew\source\repos\DemoTask\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.AssemblyInfoInputs.cache
+C:\Users\andrew\source\repos\DemoTask\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.AssemblyInfo.cs
+C:\Users\andrew\source\repos\DemoTask\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\andrew\source\repos\DemoTask\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.dll
+C:\Users\andrew\source\repos\DemoTask\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.pdb
+C:\Users\andrew\source\repos\DemoTask\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.genruntimeconfig.cache
