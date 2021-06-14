@@ -1,0 +1,13 @@
+C:\Users\andrew\source\repos\NewLanguageFeatures\NewLanguageFeatures\bin\Debug\netcoreapp3.1\NewLanguageFeatures.exe
+C:\Users\andrew\source\repos\NewLanguageFeatures\NewLanguageFeatures\bin\Debug\netcoreapp3.1\NewLanguageFeatures.deps.json
+C:\Users\andrew\source\repos\NewLanguageFeatures\NewLanguageFeatures\bin\Debug\netcoreapp3.1\NewLanguageFeatures.runtimeconfig.json
+C:\Users\andrew\source\repos\NewLanguageFeatures\NewLanguageFeatures\bin\Debug\netcoreapp3.1\NewLanguageFeatures.runtimeconfig.dev.json
+C:\Users\andrew\source\repos\NewLanguageFeatures\NewLanguageFeatures\bin\Debug\netcoreapp3.1\NewLanguageFeatures.dll
+C:\Users\andrew\source\repos\NewLanguageFeatures\NewLanguageFeatures\bin\Debug\netcoreapp3.1\NewLanguageFeatures.pdb
+C:\Users\andrew\source\repos\NewLanguageFeatures\NewLanguageFeatures\obj\Debug\netcoreapp3.1\NewLanguageFeatures.csprojAssemblyReference.cache
+C:\Users\andrew\source\repos\NewLanguageFeatures\NewLanguageFeatures\obj\Debug\netcoreapp3.1\NewLanguageFeatures.AssemblyInfoInputs.cache
+C:\Users\andrew\source\repos\NewLanguageFeatures\NewLanguageFeatures\obj\Debug\netcoreapp3.1\NewLanguageFeatures.AssemblyInfo.cs
+C:\Users\andrew\source\repos\NewLanguageFeatures\NewLanguageFeatures\obj\Debug\netcoreapp3.1\NewLanguageFeatures.csproj.CoreCompileInputs.cache
+C:\Users\andrew\source\repos\NewLanguageFeatures\NewLanguageFeatures\obj\Debug\netcoreapp3.1\NewLanguageFeatures.dll
+C:\Users\andrew\source\repos\NewLanguageFeatures\NewLanguageFeatures\obj\Debug\netcoreapp3.1\NewLanguageFeatures.pdb
+C:\Users\andrew\source\repos\NewLanguageFeatures\NewLanguageFeatures\obj\Debug\netcoreapp3.1\NewLanguageFeatures.genruntimeconfig.cache
