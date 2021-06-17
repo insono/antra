@@ -1,0 +1,15 @@
+C:\Users\andrew\source\repos\Exercise5\Exercise5\bin\Debug\net5.0\Exercise2.exe
+C:\Users\andrew\source\repos\Exercise5\Exercise5\bin\Debug\net5.0\Exercise2.deps.json
+C:\Users\andrew\source\repos\Exercise5\Exercise5\bin\Debug\net5.0\Exercise2.runtimeconfig.json
+C:\Users\andrew\source\repos\Exercise5\Exercise5\bin\Debug\net5.0\Exercise2.runtimeconfig.dev.json
+C:\Users\andrew\source\repos\Exercise5\Exercise5\bin\Debug\net5.0\Exercise2.dll
+C:\Users\andrew\source\repos\Exercise5\Exercise5\bin\Debug\net5.0\ref\Exercise2.dll
+C:\Users\andrew\source\repos\Exercise5\Exercise5\bin\Debug\net5.0\Exercise2.pdb
+C:\Users\andrew\source\repos\Exercise5\Exercise5\obj\Debug\net5.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrew\source\repos\Exercise5\Exercise5\obj\Debug\net5.0\Exercise2.AssemblyInfoInputs.cache
+C:\Users\andrew\source\repos\Exercise5\Exercise5\obj\Debug\net5.0\Exercise2.AssemblyInfo.cs
+C:\Users\andrew\source\repos\Exercise5\Exercise5\obj\Debug\net5.0\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\andrew\source\repos\Exercise5\Exercise5\obj\Debug\net5.0\Exercise2.dll
+C:\Users\andrew\source\repos\Exercise5\Exercise5\obj\Debug\net5.0\ref\Exercise2.dll
+C:\Users\andrew\source\repos\Exercise5\Exercise5\obj\Debug\net5.0\Exercise2.pdb
+C:\Users\andrew\source\repos\Exercise5\Exercise5\obj\Debug\net5.0\Exercise2.genruntimeconfig.cache
