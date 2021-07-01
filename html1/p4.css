@@ -1,0 +1,12 @@
+﻿table td, th {
+    background-color: cornflowerblue;
+}
+
+td {
+    font-size:smaller;
+    text-align:center;
+}
+
+a {
+    text-decoration: none
+}

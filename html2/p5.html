@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="p5.css" rel="stylesheet">
+</head>
+
+<body>
+    <form action="/action.php" method="POST">
+        <table>
+            <tr>
+                <td colspan="2" align="center">
+                    <h1>fakebook</h1>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <h3>Registration</h3>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <h4>It is safe and it will always be!</h4>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table class="group">
+                        <tr>
+                            <td class="table" colspan="2">Non-Important Information</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="firstname"><input type="text" name="firstname" id="firstname"
+                                        placeholder="First Name"></label>
+                            </td>
+                            <td>
+                                <label for="lastname"><input type="text" name="lastname" id="lastname"
+                                        placeholder="Last Name"></label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="email"><input type="email" name="email" id="email"
+                                        placeholder="Your Email"></label>
+                            </td>
+                            <td>
+                                <label for="num"><input type="tel" name="num" id="num"
+                                        placeholder="Phone Number"></label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="password"><input type="password" name="password" id="password"
+                                        placeholder="Your Password"></label>
+                            </td>
+                            <td>
+                                <label for="website"><input type="text" name="website" id="website"
+                                        placeholder="Website"></label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">Birthday</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><input type="datetime" value="2014-05-09 13:58"></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <input type="radio" id="male" name="gender" value="male">
+                                <label for="male">Male</label>
+                                <input type="radio" id="female" name="gender" value="female">
+                                <label for="female">Female</label>
+                                <input type="radio" id="other" name="gender" value="other">
+                                <label for="other">Other</label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <input type="submit" value="Clear Form">
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td>
+                    <table class="group">
+                        <tr>
+                            <td class="table">Important Information *required</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <select required>
+                                    <option value="0">Country</option>
+                                    <option value="1">USA</option>
+                                    <option value="2">CHINA</option>
+                                </select>
+                                <input type="text" placeholder="Village" required>
+                                <input type="text" placeholder="District" required>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="smaller">
+                                <input type="text" placeholder="Street" required>
+                                <input type="text" placeholder="NR" required>
+                                <input type="text" placeholder="Floor" required>
+                                <input type="text" placeholder="Ap Nr" required>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Door Color
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="color" value="pink" required>
+                                <input type="text" placeholder="Water Meter Nr" required>
+                                <input type="text" placeholder="Aunt Panties Size" required>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                More Personal Information
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <textarea placeholder="Give Us More Information!!!" required></textarea>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="submit" value="Register">
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+
+
+
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,12 @@
+﻿table, th, td{
+    text-align:center;
+    border: 1px solid black;
+}
+
+thead {
+    font-weight:bold;
+}
+
+td {
+    text-align:left;
+}

@@ -1,0 +1,53 @@
+﻿body {
+    font-family: sans-serif;
+    background-color: lightgray;
+}
+
+input {
+    border-radius: 2px;
+
+}
+
+h1, #reg {
+    color:darkblue;
+}
+
+td > input {
+    padding-right: 20px;
+}
+
+.submit {
+    transform: translateX(35%);
+}
+
+#white, #rem, #fp {
+    color: white;
+}
+
+#table2 {
+    background-color: darkblue;
+}
+
+#rem {
+    font-size: small;
+}
+
+#fp {
+    text-align: right;
+    font-size: xx-small;
+    text-decoration: underline;
+}
+
+#s1 {
+    background-color: lightgray;
+    color: darkblue;
+    border: 2px solid darkblue;
+    padding: 5px 20px
+}
+
+#s2 {
+    background-color: darkblue;
+    color: white;
+    border: 2px solid yellow;
+    padding: 5px 20px
+}

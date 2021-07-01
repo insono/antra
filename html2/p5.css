@@ -1,0 +1,27 @@
+body {
+    background-color: blue;
+    color: white;
+}
+
+.group {
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 500px;
+}
+
+input[type="submit"] {
+    padding: 10px 200px;
+    border-radius: 10px;
+}
+
+#smaller > input{
+    width: 20%;
+}
+
+textarea {
+    width: 450px;
+}
+
+.table {
+    transform: translate(150px, -25px);
+}

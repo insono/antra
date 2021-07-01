@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+form {
+    background-color: pink;
+}
+
+h3 {
+    text-align: center;
+}
+
+.rightAlign {
+    transform: translateX(80%);
+}
+
+input[type="number"] {
+    width: 40px;
+}

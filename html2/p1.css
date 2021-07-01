@@ -1,0 +1,56 @@
+﻿body {
+    display: flex;
+    font-family: sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    border-radius: 5px;
+}
+
+#header {
+    text-align: center;
+    font-size: x-large
+}
+
+.input1 > input {
+    padding: 10px 70px;
+    padding-left: 10px;
+}
+
+.input2 > input {
+    padding: 10px 318px;
+    padding-left: 10px;
+}
+
+#check {
+    
+    font-size: small;
+}
+
+#tos {
+    font-size: smaller;
+    text-decoration: none;
+    width:20px;
+}
+
+#tosLink {
+    text-decoration: none;
+    color:cyan
+}
+
+#register {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.input3 > input{
+    color: white;
+    background-color: blue;
+    padding: 10px 90px;
+}
+
+#signIn > input{
+    background-color: green;
+}
