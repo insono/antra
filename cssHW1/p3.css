@@ -1,0 +1,67 @@
+body {
+    background-color: grey;
+    color: rgb(30, 83, 161);
+    justify-content: center;
+}
+
+table {
+    padding: 10px 10px;
+}
+
+.header {
+    width: auto;
+    height: 100px;
+    background-color: rgb(67, 67, 148);
+}
+
+input[type="button"] {
+    position: absolute;
+    right: 0;
+    color: white;
+    background-color: rgb(235, 168, 25);
+    padding: 15px 30px;
+    margin: 30px 30px
+}
+
+.article {
+    border-radius: 4px;
+    padding: 20px 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    background-color: rgba(255, 255, 255, 0.616);
+}
+
+.date {
+    padding: 15px 30px;
+    text-align: right;
+    
+}
+
+.publish {
+    color: grey;
+    padding: 15px 30px;
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 20px;
+}
+
+.foot {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    background-color: lightblue;
+    color: white;
+    padding: 10px 10px;
+}
+
+a:hover {
+    background-color: yellow;
+}

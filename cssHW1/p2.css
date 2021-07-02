@@ -1,0 +1,17 @@
+body {
+    bottom: 0;
+    font-family: sans-serif;
+    background-color: rgb(88, 86, 86);
+    font-size: medium;
+    color: white;
+    justify-content: center;
+}
+
+td {
+    width: 150px;
+    padding: 30px 50px;
+}
+
+a {
+    text-decoration: none;
+}
